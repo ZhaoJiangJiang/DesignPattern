@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d71860eb-8fef-404b-96d2-534e6cbb7f04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/factory/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/factory/impl/ModernFurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/factory/impl/VictorianFurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/CoffeeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/ModernChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/ModernCoffeeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/ModernSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/Sofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/VictorianCoffeeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/src/main/java/org/example/product/VictorianSofa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +57,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/zhaojiangjiang/IdeaProjects/DesignPattern/AbstractFactory",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +66,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AbstractFactory" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744542032545</updated>
-      <workItem from="1744542033775" duration="3785000" />
+      <workItem from="1744542033775" duration="7844000" />
     </task>
     <servers />
   </component>
