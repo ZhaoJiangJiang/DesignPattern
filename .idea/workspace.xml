@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d71860eb-8fef-404b-96d2-534e6cbb7f04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FactoryMethod/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/AirLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/AirLogistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/Logistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/Logistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/RoadLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/RoadLogistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/SeaLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/factory/SeaLogistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/Transport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/impl/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/impl/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/impl/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/impl/Ship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/impl/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/product/impl/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744542032545</updated>
-      <workItem from="1744542033775" duration="3185000" />
+      <workItem from="1744542033775" duration="3785000" />
     </task>
     <servers />
   </component>
